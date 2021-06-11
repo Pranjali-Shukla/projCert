@@ -1,5 +1,7 @@
 FROM devopsedu/webapp
 
+MAINTAINER Pranjali Shukla <pranjali.shukla998@gmail.com>
+
 #Updating the Repository
 RUN apt-get update -y
 
